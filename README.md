@@ -1,7 +1,6 @@
 🚀 Multi Agent Researcher & Report Generator
 
 An AI-powered multi-agent system that automates the complete research workflow — from data collection to structured report generation and PDF export.
-<img width="1919" height="1079" alt="Screenshot 2026-03-29 171719" src="https://github.com/user-attachments/assets/4737fe52-8bff-49c1-a35c-c636957ca564" />
 
 ---
 
@@ -175,11 +174,16 @@ streamlit run app.py
 9. Screenshots
 
 - Home Screen
-- Agent Workflow Visualization
-- Generated Report
-- PDF Download
+ <img width="1920" height="1080" alt="Screenshot 2026-04-09 160257" src="https://github.com/user-attachments/assets/6d14a355-3045-4db6-a72c-3c5855b97a7e" />
 
-(Add images here)
+- Agent Workflow
+ <img width="1920" height="1080" alt="Screenshot 2026-04-09 160423" src="https://github.com/user-attachments/assets/fd658693-26eb-4fb3-a0d8-3cac59b4a743" />
+
+- Generated Report
+  <img width="1920" height="1080" alt="Screenshot 2026-04-09 160441" src="https://github.com/user-attachments/assets/9f245291-f096-435a-88c2-2373c1e610e7" />
+
+- PDF Download
+  <img width="1920" height="1080" alt="Screenshot 2026-04-09 160541" src="https://github.com/user-attachments/assets/44ff31ab-f577-4938-ae4c-b9a13244e8c7" />
 
 ---
 
