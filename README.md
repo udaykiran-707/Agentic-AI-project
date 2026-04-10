@@ -143,8 +143,7 @@ streamlit run app.py
 ---
 
 Recording
-   https://youtu.be/XSwtXpgmxWk?si=QMpkBCOpn3sCRH4A
----
+https://youtu.be/XSwtXpgmxWk?si=QMpkBCOpn3sCRH4A
 
 Screenshots
 
