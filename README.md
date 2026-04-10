@@ -142,34 +142,11 @@ streamlit run app.py
 
 ---
 
-🌐 Live Demo
-
-👉 "https://agentic-multi-agents.streamlit.app/" (https://agentic-multi-agents.streamlit.app/)
-
----
-
-💻 GitHub Repository
-
-👉 "https://github.com/udaykiran-707/Agentic-AI-project" (https://github.com/udaykiran-707/Agentic-AI-project)
-
----
-
-7. References and Resources Used
-
-- HuggingFace Transformers
-- Facebook BART Model
-- Wikipedia API
-- DuckDuckGo Search
-- Streamlit Documentation
-- FPDF Documentation
-
----
-
-8. Recording
+Recording
    https://youtu.be/XSwtXpgmxWk?si=QMpkBCOpn3sCRH4A
 ---
 
-9. Screenshots
+Screenshots
 
 - Home Screen
  <img width="1920" height="1080" alt="Screenshot 2026-04-09 160257" src="https://github.com/user-attachments/assets/6d14a355-3045-4db6-a72c-3c5855b97a7e" />
@@ -186,6 +163,29 @@ streamlit run app.py
   
 
 ---
+
+7. References and Resources Used
+
+- HuggingFace Transformers
+- Facebook BART Model
+- Wikipedia API
+- DuckDuckGo Search
+- Streamlit Documentation
+- FPDF Documentation
+
+---
+8.🌐 Live Demo
+
+👉 "https://agentic-multi-agents.streamlit.app/" (https://agentic-multi-agents.streamlit.app/)
+
+---
+
+9.💻 GitHub Repository
+
+👉 "https://github.com/udaykiran-707/Agentic-AI-project" (https://github.com/udaykiran-707/Agentic-AI-project)
+
+---
+
 
 10. Problems Faced and Solutions
 
