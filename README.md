@@ -1,4 +1,4 @@
-🚀 Multi Agent Researcher & Report Generator
+🚀 MULTI AGENT RESEARCHER & REPORT GENERATOR
 
 An AI-powered multi-agent system that automates the complete research workflow — from data collection to structured report generation and PDF export.
 
@@ -231,8 +231,7 @@ MIT License
 
 👨‍💻 Author
 
-K Uday Kiran Achari
-Agentic AI
+K Uday Kiran Achari - Agentic AI
 
 ---
 
